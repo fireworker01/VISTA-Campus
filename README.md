@@ -89,4 +89,12 @@ In the figure, the same location is shown, with a natural light environment duri
   <img src="src/image/folder.png" width="30%">
 </div>
 
+### Catalog Layout of a Single Dataset
+
+\<xx> represents the dataset number (ranging from 00 to 12);
+
+\<x> represents the file number (starting from 0);
+
+\<time_stamp> represents a timestamp in the format \<seconds.microseconds>.
+
 ## How to get the data
