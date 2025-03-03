@@ -1,7 +1,28 @@
+<div align="center" style="position: relative;">
+  <div style="position: relative;">
+    <img src="src/image/show.png" alt="Header Image" width="100%"/>
+    <h1 style="position: absolute; 
+              top: 33%; 
+              left: 50%; 
+              transform: translateX(-50%); 
+              color: white; 
+              text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+              font-size: 2.5em;
+              margin: 0;
+              width: 100%;
+              text-align: center;">
+      ISTA-Campus Dataset: VersatIle Slam DaTAset with Multimodal Sensor for Campus Environments
+    </h1>
+  </div>
+  <br/>
+</div>
+
+
+
 <div align="center">
   <img src="src/image/show.png" alt="Header Image" width="100%"/>
   <br/>
-  <h1>VISTA-Campus: VersatIle SLAM suiTe with All-around Cameras for campus Environment</h1>
+  <h1>ISTA-Campus Dataset: VersatIle Slam DaTAset with Multimodal Sensor for Campus Environments</h1>
 </div>
 
 In the VISTA-Campus. We have constructed a multi-sensor hardware platform designed to accommodate diverse existing and future perception modalities, thereby addressing limitations in current datasets. Our platform integrates a stereo camera, six wide-angle cameras configured for omnidirectional coverage, two 32-beam LiDAR units, an IMU, and an RTK positioning system. The dataset, collected across campus environments, encompasses data under varying temporal and illumination conditions, diverse pedestrian traffic levels, and distinct scenarios including residential areas and open spaces. It incorporates multiple loop closure detection conditions while providing prolonged and long-distance data sequences, making it particularly suitable for long-term SLAM testing and evaluation. Additionally, we have provided object detection annotations for certain sequences containing densely populated objects.
